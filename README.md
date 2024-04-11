@@ -2,9 +2,6 @@
 
 A social networking platform with automated content moderation and context-based authentication system.
 
-
-![UI-community](https://raw.githubusercontent.com/STWDFSD/SocialEcho/main/resources/UI-community.png)
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)

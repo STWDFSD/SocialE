@@ -2,9 +2,8 @@
 
 A social networking platform with automated content moderation and context-based authentication system.
 
-[Watch Demo](https://youtu.be/Tmncayg7FeU)
 
-![UI-community](https://raw.githubusercontent.com/nz-m/SocialEcho/main/resources/UI-community.png)
+![UI-community](https://raw.githubusercontent.com/STWDFSD/SocialEcho/main/resources/UI-community.png)
 
 ## Table of Contents
 
@@ -86,7 +85,7 @@ There are three distinct user roles within the system:
 
 ## Schema Diagram
 
-![Schema Diagram](https://raw.githubusercontent.com/nz-m/SocialEcho/main/resources/Schema-Diagram.png)
+![Schema Diagram](https://raw.githubusercontent.com/STWDFSD/SocialEcho/main/resources/Schema-Diagram.png)
 
 
 
@@ -104,7 +103,7 @@ Before running the application, make sure you have the following installed:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/nz-m/SocialEcho.git
+git clone https://github.com/STWDFSD/SocialEcho.git
 ```
 2. Go to the project directory and install dependencies for both the client and server
 
@@ -176,5 +175,5 @@ Moderators have specific email domain (`@mod.socialecho.com`). When registering 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/nz-m/SocialEcho/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/STWDFSD/SocialEcho/blob/main/LICENSE).
 
